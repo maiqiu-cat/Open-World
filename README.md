@@ -2,6 +2,9 @@
 
 这是一个纯浏览器的 WebGL2 实时海洋场景。项目没有任何第三方依赖和构建步骤，也不加载外部资源。
 
+<img width="1840" height="932" alt="截屏2026-09-30 10 32 32" src="https://github.com/user-attachments/assets/b504ca85-693d-4ef3-b3e6-4a4f1feb55be" />
+
+
 ## 运行
 
 直接用 Chrome、Edge 或 Safari 17+ 打开 `index.html` 即可，`file://` 也能运行。
